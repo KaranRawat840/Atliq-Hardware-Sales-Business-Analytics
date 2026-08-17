@@ -127,5 +127,5 @@ Built as a hands-on SQL + pandas end to end project to work through realistic
 ad-hoc business requests: multi-table joins, fiscal-year logic, ranking within
 groups, and picking the right chart for each type of question.
 
-Connect with me on [LinkedIn](#) or check out my other projects on
-[my GitHub profile](#).
+Connect with me on [LinkedIn](https://lnkd.in/p/gfiQjzfj) or check out my other projects on
+[my GitHub profile](https://github.com/KaranRawat840).
