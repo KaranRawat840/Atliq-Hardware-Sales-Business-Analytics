@@ -116,7 +116,7 @@ atliq-hardware-sales-analysis/
 │   ├── q7_monthly_sales.png
 │   └── q9_channel_pie.png
 └── data/
-    └── (schema description — raw data not included)
+    └── (schema description — raw data included)
 ```
 
 ---
