@@ -123,7 +123,7 @@ atliq-hardware-sales-analysis/
 
 ## 🙋 About This Project
 
-Built as a hands-on SQL + pandas practice project to work through realistic
+Built as a hands-on SQL + pandas end to end project to work through realistic
 ad-hoc business requests: multi-table joins, fiscal-year logic, ranking within
 groups, and picking the right chart for each type of question.
 
