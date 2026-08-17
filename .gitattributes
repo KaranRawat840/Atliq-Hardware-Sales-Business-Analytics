@@ -1,0 +1,2 @@
+*.sql filter=lfs diff=lfs merge=lfs -text
+atliq_hardware_db.sql filter=lfs diff=lfs merge=lfs -text
