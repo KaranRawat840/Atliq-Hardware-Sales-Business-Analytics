@@ -65,15 +65,15 @@ The `gdb023` database has 6 tables:
 
 *Atliq Exclusive's monthly gross sales, showing the COVID-19 dip and festive-season rebound.*
 
-![monthly gross sale](https://github.com/KaranRawat840/Atliq-Hardware-Sales-Business-Analytics/blob/main/monthly%20gross%20sales.png)
+![monthly gross sale](https://github.com/KaranRawat840/Atliq-Hardware-Sales-Business-Analytics/blob/main/charts/monthly%20gross%20sales.png)
 
 *FY2021 gross sales contribution by channel.*
 
-![Channel Contribution to Gross Sales - FY2021](https://github.com/KaranRawat840/Atliq-Hardware-Sales-Business-Analytics/blob/main/Channel%20%20Contribution%20to%20Gross%20Sales%20-%20FY2021.png)
+![Channel Contribution to Gross Sales - FY2021](https://github.com/KaranRawat840/Atliq-Hardware-Sales-Business-Analytics/blob/main/charts/Channel%20%20Contribution%20to%20Gross%20Sales%20-%20FY2021.png)
 
 *Unique product count by segment.*
 
-![Unique product count by Segment](https://github.com/KaranRawat840/Atliq-Hardware-Sales-Business-Analytics/blob/main/Unique%20product%20count%20by%20Segment.png)
+![Unique product count by Segment](https://github.com/KaranRawat840/Atliq-Hardware-Sales-Business-Analytics/blob/main/charts/Unique%20product%20count%20by%20Segment.png)
 
 ---
 
